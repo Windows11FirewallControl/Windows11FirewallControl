@@ -44,4 +44,6 @@ Simple and exhaustive solution for applications network activity controlling and
       -Ability to create virtual sub networks in the same LAN <br> 
       -Control of mutual in-LAN connectivity. Ability to isolate a dedicated (child's) computer from other in-LAN computers <br> 
 
+<a href="https://www.tapatalk.com/groups/vistafirewallcontrol/">Support Forum</a>
+
 
