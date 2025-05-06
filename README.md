@@ -7,7 +7,8 @@ Simple and exhaustive solution for applications network activity controlling and
 -Provides detailed logging and notification of any application network activity. <br> 
 -Allows using and creating applications permissions to control the network activity easily. <br> 
 -Rich set of predefined, ready-to-use applications permissions applicable with a single click. <br> 
--Ability for creating virtual computers group (sub networks) with flexible permissions to control mutual connect ability inside Local Network.<br>  
+-Ability for creating virtual computers group (sub networks) 
+     with flexible permissions to control mutual connect ability inside Local Network.<br>  
 -Manages external network hardware devices. 
 
 <b>Benefits</b> <br> 
