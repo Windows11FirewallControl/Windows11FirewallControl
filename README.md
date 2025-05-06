@@ -1,7 +1,8 @@
 # Windows11FirewallControl
-Simple and exhaustive solution for applications network activity controlling and monitoring. 
+Simple and exhaustive solution for applications network activity controlling and monitoring.
+
 Prevents undesired programs and Windows updates, informational incoming and outgoing leakage of applications running locally or remotely. 
-Detects and stops zero-day malware, prevents from ìphoning homeî, unwanted automatic updates and sending ìtelemetryî, increases your network security and privacy. 
+Detects and stops zero-day malware, prevents from ‚Äúphoning home‚Äù, unwanted automatic updates and sending ‚Äútelemetry‚Äù, increases your network security and privacy. 
 Puts you in control of all network communications your PC has. 
 Provides detailed logging and notification of any application network activity. 
 Allows using and creating applications permissions to control the network activity easily. 
