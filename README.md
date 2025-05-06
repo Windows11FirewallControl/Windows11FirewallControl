@@ -21,14 +21,14 @@ Simple and exhaustive solution for applications network activity controlling and
       -Remote management, remote applications protection <br> 
       -Portable version (no installation required) available (for USB connected devices) <br> 
       -External network connection (firewall/router) hardware support <br> 
-Features <br> 
+<b>Features</b> <br> 
       -Designed for Windows 11/10/8/7/2008/2012/2016/2019/2022 <br> 
       -Easy to use <br> 
       -Per-application security settings <br> 
       -Automatic network activity detection and applications listing <br> 
       -Strict network activity statistics for every application <br> 
       -Zone based network permissions management <br> 
-      -Flexible permissions settings, 30+ predefined security zones for applications, single click the zones usage <br> 
+      -Flexible permissions settings, 30+ predefined security zones for applications, single click the zones usage<br> 
       -Ability to compose new security zones and update/modify the existing zones<br>  
       -Detailed blocked/allowed events monitoring, management and logging. Instant notifications <br> 
       -Complete IPv6 support <br> 
@@ -38,7 +38,7 @@ Features <br>
       -Integration with Windows Explorer for direct access permission management <br> 
       -Applications connections monitoring and management <br> 
       -Automatic Port Forwarding-to-applications management/synchronization <br> 
-Network/Cloud Edition Features <br> 
+<b>Network/Cloud Edition Features</b> <br> 
       -Ability to protect multiple computers by a single installation <br> 
       -Ability to monitor and manage multiple applications installed on multiple computer simultaneously and automatically <br> 
       -Ability to create virtual sub networks in the same LAN <br> 
