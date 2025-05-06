@@ -29,7 +29,7 @@ Simple and exhaustive solution for applications network activity controlling and
       -Strict network activity statistics for every application <br> 
       -Zone based network permissions management <br> 
       -Flexible permissions settings, 30+ predefined security zones for applications, single click the zones usage<br>
-      -Ability to compose new security zones and update/modify the existing zones<br>  
+      -Ability to compose new security zones and update/modify the existing zones<br>
       -Detailed blocked/allowed events monitoring, management and logging. Instant notifications <br> 
       -Complete IPv6 support <br> 
       -Ability to manage applications permissions and control applications network activity locally and remotely <br> 
