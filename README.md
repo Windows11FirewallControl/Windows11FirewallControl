@@ -7,8 +7,7 @@ Simple and exhaustive solution for applications network activity controlling and
 -Provides detailed logging and notification of any application network activity. <br> 
 -Allows using and creating applications permissions to control the network activity easily. <br> 
 -Rich set of predefined, ready-to-use applications permissions applicable with a single click. <br> 
--Ability for creating virtual computers group (sub networks) 
-     with flexible permissions to control mutual connect ability inside Local Network.<br>  
+-Ability for creating virtual computers group (sub networks) with flexible permissions to control mutual connect ability inside Local Network.<br>
 -Manages external network hardware devices. 
 
 <b>Benefits</b> <br> 
@@ -29,7 +28,7 @@ Simple and exhaustive solution for applications network activity controlling and
       -Automatic network activity detection and applications listing <br> 
       -Strict network activity statistics for every application <br> 
       -Zone based network permissions management <br> 
-      -Flexible permissions settings, 30+ predefined security zones for applications, single click the zones usage<br> 
+      -Flexible permissions settings, 30+ predefined security zones for applications, single click the zones usage<br>
       -Ability to compose new security zones and update/modify the existing zones<br>  
       -Detailed blocked/allowed events monitoring, management and logging. Instant notifications <br> 
       -Complete IPv6 support <br> 
